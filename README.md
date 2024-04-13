@@ -16,7 +16,7 @@ iss_tracker.py is a little tool, that tracks the current position of the Interna
 
 ## Prerequisites and basic information
 
-- Python 3.8
+- Tested with Pyhton 3.8 and Python 3.12
 - This application is tested in windows 10/11
 - I don't guarantee that every corner case has been taken into account. The project is part of my learning process for Python
   
