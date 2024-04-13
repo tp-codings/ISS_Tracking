@@ -19,13 +19,19 @@ iss_tracker.py is a little tool, that tracks the current position of the Interna
 - Tested with Pyhton 3.8 and Python 3.12
 - This application is tested in windows 10/11
 - I don't guarantee that every corner case has been taken into account. The project is part of my learning process for Python
-  
+
 ## Installation
 
 1. Clone Repository
-`git clone https://github.com/tp-codings/ISS_Tracking.git`
-2. (optional but recommended) Create and activate virtual environment (e.g. with conda)
-3. `pip install -r requirements.txt`
+`git clone <https://github.com/tp-codings/ISS_Tracking.git`>
+2. (optional but recommenced) Create Conda Environment
+`conda create -n "ISSTracking" python=3.8`
+`conda activate ISSTracking
+3. Install Dependencies
+`pip install -r requirements.txt`
+
+# Usage
+`python iss_tracking.py`
 
 # Examples
 ![image](https://github.com/tp-codings/ISS_Tracking/assets/118997294/07f82ef3-86dd-4630-9abd-3452ed752e67)
