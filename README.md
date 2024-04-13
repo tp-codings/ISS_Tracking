@@ -30,7 +30,7 @@ iss_tracker.py is a little tool, that tracks the current position of the Interna
 3. Install Dependencies
 `pip install -r requirements.txt`
 
-# Usage
+## Usage
 `python iss_tracker.py`
 `python satellite_tracker.py`
 
