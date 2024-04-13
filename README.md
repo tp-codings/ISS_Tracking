@@ -5,7 +5,7 @@ iss_tracker.py is a little tool, that tracks the current position of the Interna
 
 | Personal Rating | Year of Development | Languages | Tools | Type of Application |  
 | --- | --- | --- | --- | --- |
-| ⭐️⭐️⭐️⭐️⭐️ (5/5) | 2023 | Python | Geopy, Matplotlib | Tool |  
+| ⭐️⭐️⭐️ (3/5) | 2023 | Python | Geopy, Matplotlib | Tool |  
 
 ## Features
 - tracks live data of satellite positions
